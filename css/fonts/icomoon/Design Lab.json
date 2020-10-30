@@ -8,28 +8,36 @@
     {
       "selection": [
         {
+          "order": 25,
+          "id": 6,
+          "name": "Ellipse",
+          "prevSize": 32,
+          "code": 59654,
+          "tempChar": ""
+        },
+        {
           "order": 22,
           "id": 5,
           "name": "design",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
-          "order": 21,
+          "order": 23,
           "id": 4,
           "name": "dev",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
-          "order": 20,
+          "order": 27,
           "id": 3,
           "name": "logo",
           "prevSize": 32,
           "code": 59650,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 19,
@@ -37,15 +45,15 @@
           "name": "product",
           "prevSize": 32,
           "code": 59651,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
-          "order": 18,
+          "order": 26,
           "id": 1,
           "name": "Rectangle",
           "prevSize": 32,
           "code": 59652,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 17,
@@ -53,20 +61,43 @@
           "name": "scroll",
           "prevSize": 32,
           "code": 59653,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
       "metadata": {
         "name": "Untitled Set",
         "importSize": {
-          "width": 80,
-          "height": 83
+          "width": 69,
+          "height": 68
         }
       },
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 6,
+          "paths": [
+            "M516.204 14.962c272.648 2.406 492.743 223.987 492.743 496.974 0 274.481-222.511 496.993-496.993 496.993s-496.993-222.511-496.993-496.993c0-0.004 0-0.009 0-0.013l-0 0.001c1.213-274.727 224.202-496.967 499.098-496.967 0.754 0 1.508 0.002 2.261 0.005l-0.117-0z"
+          ],
+          "attrs": [
+            {
+              "fill": "none",
+              "strokeLinejoin": "miter",
+              "strokeLinecap": "butt",
+              "strokeMiterlimit": "4",
+              "strokeWidth": 29.924893977975778
+            }
+          ],
+          "width": 1032,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Ellipse"
+          ],
+          "colorPermutations": {}
+        },
         {
           "id": 5,
           "paths": [
